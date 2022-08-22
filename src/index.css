@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+
+body{
+    background-image: url(/src/image/Vector\ 55.png);
+    background-size: 100% 75%;
+    background-repeat: no-repeat;
+}
+
