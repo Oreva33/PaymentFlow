@@ -6,11 +6,6 @@ import "./SideDrawer.css";
 
 const SideDrawer = (props) => {
   const xref = useRef();
-  if (!xref.current) {
-    console.log("Oops");
-  } else {
-    console.log(xref.current.classList);
-  }
 
   const content = (
     <CSSTransition
